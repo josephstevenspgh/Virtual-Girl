@@ -1,0 +1,3 @@
+Z:\data\Programs\programming\Flash\Virtual Girl\Data\RedMap_Background#tiles.png
+Z:\data\Programs\programming\Flash\Virtual Girl\Data\RedMap_Background.tlc
+Z:\data\Programs\programming\Flash\Virtual Girl\Data\RedMap_Background#map001.txm

@@ -1,0 +1,3 @@
+Z:\home\splixel\Programs\programming\Flash\Virtual Girl\Data\TreasureRoom#tiles.png
+Z:\home\splixel\Programs\programming\Flash\Virtual Girl\Data\TreasureRoom.tlc
+Z:\home\splixel\Programs\programming\Flash\Virtual Girl\Data\TreasureRoom#map001.txm

@@ -1,0 +1,3 @@
+Z:\home\splixel\Programs\programming\Flash\LD21\Data\HubWorld#tiles.png
+Z:\home\splixel\Programs\programming\Flash\LD21\Data\HubWorld.tlc
+Z:\home\splixel\Programs\programming\Flash\LD21\Data\HubWorld#map001.txm

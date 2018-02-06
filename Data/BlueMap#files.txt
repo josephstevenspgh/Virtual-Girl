@@ -1,0 +1,3 @@
+Z:\home\splixel\Programs\programming\Flash\LD21\Data\BlueMap#tiles.png
+Z:\home\splixel\Programs\programming\Flash\LD21\Data\BlueMap.tlc
+Z:\home\splixel\Programs\programming\Flash\LD21\Data\BlueMap#map001.txm

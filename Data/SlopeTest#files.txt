@@ -1,0 +1,3 @@
+Z:\data\Programs\programming\Flash\Virtual Girl\Data\SlopeTest#tiles.png
+Z:\data\Programs\programming\Flash\Virtual Girl\Data\SlopeTest.tlc
+Z:\data\Programs\programming\Flash\Virtual Girl\Data\SlopeTest#map001.txm

@@ -1,0 +1,3 @@
+Z:\home\splixel\Programs\programming\Flash\LD21\Data\GreenMap#tiles.png
+Z:\home\splixel\Programs\programming\Flash\LD21\Data\GreenMap.tlc
+Z:\home\splixel\Programs\programming\Flash\LD21\Data\GreenMap#map001.txm

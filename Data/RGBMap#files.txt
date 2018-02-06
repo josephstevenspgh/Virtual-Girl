@@ -1,0 +1,3 @@
+Z:\home\splixel\Programs\programming\Flash\LD21\Data\RGBMap#tiles.png
+Z:\home\splixel\Programs\programming\Flash\LD21\Data\RGBMap.tlc
+Z:\home\splixel\Programs\programming\Flash\LD21\Data\RGBMap#map001.txm
